@@ -1,0 +1,20 @@
+.outchat {
+    max-width: 50%;
+    background-color: rgba(36, 238, 36, 0.61);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 15px;
+    border-radius: 20px;
+    align-self: flex-end;
+}
+
+.namedisplay {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.messagedisplay {
+
+}
