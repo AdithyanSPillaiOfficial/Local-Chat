@@ -1,5 +1,5 @@
 import Image from "next/image";
-import TitleBar from "./components/titlebar";
+import TitleBar from "./widgets/TitleBar/TitleBar";
 
 export default function Home() {
   return (
